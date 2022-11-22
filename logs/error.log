@@ -1,0 +1,1 @@
+2022/11/22 05:02:53 [error] 47357#47357: *100 connect() failed (111: Connection refused) while connecting to upstream, client: 14.99.117.230, server: automate.ezxdemo.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9745", host: "automate.ezxdemo.com"
